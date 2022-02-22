@@ -32,4 +32,19 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+
+#### 🔭 I’m currently working on
+
+- Main Job: 
+- Side projects:
+- apps
+
+#### 🌱 I’m currently learning
+
+- 
+
+#### 💬 Ask me about
+
+- 
+-
 -->
