@@ -1,6 +1,6 @@
 ✨ Welcome to my Github profile! ✨
 
-Hello, I'm Athanasia! I am a XR developer, research scientist, with a PhD in engineering and a background in physics and telecom enginnering! I enjoy creating new worlds and applications both for entertainment and industrial needs, including but not limited to immersive storytelling, gaming & serious gaming, training, simulations and architecture. Currently, I am with HIT Lab, the Human Interface Technology Lab of HOWEST, where we do applied research and develop innovative applications and Proof of Concepts with the use of XR technologies, which also integrate biometrics.
+Hello, I'm Athanasia! I am a XR developer & research scientist, with a PhD in engineering and a background in physics and telecom enginnering! I enjoy creating new worlds and applications both for entertainment and industrial needs, including but not limited to immersive storytelling, gaming & serious gaming, training, simulations and architecture. Currently, I am with HIT Lab, the Human Interface Technology Lab of HOWEST, where we do applied research and develop innovative applications and Proof of Concepts with the use of XR technologies, which also integrate biometrics.
 
 #unity #VR #AR #MR #XR #PhD 
 
