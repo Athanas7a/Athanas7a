@@ -6,12 +6,6 @@ Hello, I'm Athanasia! I am a XR developer, research scientist, with a PhD in eng
 
 ## Stay Connected
 
-<p>
-  <img width="200" alt="Athanasia Symeonidou" align="left" src="avatar.png">
-</p>
-
-
-
 💬 Twitter [@artanasia](https://www.twitter.com/artanasia)
 
 🎥 YouTube [Artanasia](https://www.youtube.com/channel/UC7Ym0rIhl5J_0uaIPOOce0g/featured)
@@ -47,4 +41,10 @@ Here are some ideas to get you started:
 
 - 
 -
+
+
+<p>
+  <img width="200" alt="Athanasia Symeonidou" align="left" src="avatar.png">
+</p>
+
 -->
