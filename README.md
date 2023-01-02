@@ -6,7 +6,7 @@ Hello, I'm Athanasia! I am a XR developer & research scientist, with a PhD in en
 
 ## Stay Connected
 
-💬 Twitter [@artanasia](https://www.twitter.com/athanas7a)
+💬 Twitter [@athanas7a](https://www.twitter.com/athanas7a)
 
 🎥 YouTube [Athanas7a](https://www.youtube.com/channel/UCyZATCYzfcGbuGD4nxnld1w)
 
