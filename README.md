@@ -1,21 +1,28 @@
 ✨ Welcome to my Github profile! ✨
 
-Hello, I'm Athanasia Symeonidou! I am a XR developer & research scientist, with a PhD in engineering and a background in physics and telecom enginnering! I enjoy creating new worlds and applications both for entertainment and industrial needs, including but not limited to immersive storytelling, gaming & serious gaming, training, simulations and architecture. Currently, I am with HIT Lab, the Human Interface Technology Lab of HOWEST, where we do applied research and develop innovative applications and Proof of Concepts with the use of XR technologies, which also integrate biometrics.
+Hello, I'm Athanasia! I'm a T-shaped technologist with a passion for immersive, creative, and emerging tech. With over a decade of experience innovating with technology, I bring a unique blend of knowledge and expertise to every project I undertake.
 
-#unity #VR #AR #MR #XR #PhD 
+🔍 Deep Expertise: I specialize in immersive tech (VR/AR/MR/XR/holography) - research and development and tech consultancy.
+
+🌐 Broad Skill Set: Additionally, I have strong experience with 3D displays, web development, artificial intelligence and cloud computing. I possess a broad range of skills and capabilities across various perspectives, including product management and consultancy. This versatility along with my excellent cross-functional communication, enable me to tackle complex challenges and drive innovation.
+
+🔬 Intersection of Research, Innovation, and Creativity: I am passionate about exploring the intersection of research, innovation, creativity, and humanity. My work is driven by a desire to push the boundaries of technology and create impactful solutions that enhance human experiences and address real-world challenges.
+
+#unity #VR #AR #MR #XR #AI #PhD 
 
 ## Stay Connected
 
-💬 Twitter [@athanas7a](https://www.twitter.com/athanas7a)
-
-🎥 YouTube [Athanas7a](https://www.youtube.com/channel/UCyZATCYzfcGbuGD4nxnld1w)
-
 💼 LinkedIn [Athanasia Symeonidou](https://www.linkedin.com/in/athanasiasymeonidou)
-
 🌐 Website [AthanasiaSymeonidou.com](https://www.athanasiasymeonidou.com)
+💬 Twitter [@athanas7a](https://www.twitter.com/athanas7a)
+🎥 YouTube [Athanasia](https://www.youtube.com/@AthanasiaSymeonidou)
 
-
-
+## 💻 Tech Stack:
+<p align="center">
+      <img src="https://skillicons.dev/icons?i=unity,cs,python,matlab,visualstudio,opencv,ps,ai,ae,blender,git,github,unreal,latex,css,html,wordpress,javascript,php&perline=10" 
+        alt="unity,cs,python,matlab,visualstudio,opencv,ps,ai,ae,blender,git,github,unreal,latex,css,html,wordpress,javascript,php"/>  
+</p>
+<br/><br/>
 <!--
 Here are some ideas to get you started:
 
