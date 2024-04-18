@@ -2,9 +2,9 @@
 
 Hello, I'm Athanasia! I'm a T-shaped technologist with a passion for immersive, creative, and emerging tech. With over a decade of experience innovating with technology, I bring a unique blend of knowledge and expertise to every project I undertake.
 
-🔍 Deep Expertise: I specialize in immersive tech (VR/AR/MR/XR/holography) - research and development and tech consultancy.
+🔍 Deep Expertise: I specialize in immersive tech (VR/AR/MR/XR/holography) - Research, development and consultancy.
 
-🌐 Broad Skill Set: Additionally, I have strong experience with 3D displays, web development, artificial intelligence and cloud computing. I possess a broad range of skills and capabilities across various perspectives, including product management and consultancy. This versatility along with my excellent cross-functional communication, enable me to tackle complex challenges and drive innovation.
+🌐 Broad Skill Set: Additionally, I have strong experience with 3D displays, web development, artificial intelligence, UX for XR and cloud computing. I possess a broad range of skills and capabilities across various perspectives, including product management and consultancy. This versatility along with my excellent cross-functional communication, enable me to tackle complex challenges and drive innovation.
 
 🔬 Intersection of Research, Innovation, and Creativity: I am passionate about exploring the intersection of research, innovation, creativity, and humanity. My work is driven by a desire to push the boundaries of technology and create impactful solutions that enhance human experiences and address real-world challenges.
 
